@@ -1,0 +1,254 @@
+* {
+    padding: 10px 85px;
+}
+
+/* header styles */
+header p {
+    text-align: center;
+    color: #0a2458;
+}
+
+header h1 {
+    text-align: center;
+    font-size: xxx-large;
+    font-weight: lighter;
+    color: #0a2458;
+}
+
+.breadcrumb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5px;
+}
+
+.breadcrumb img {
+    width: 20px;
+    padding: 0;
+    height: 15px;
+}
+
+.breadcrumb span {
+    width: 0;
+    padding: 25px;
+}
+
+.breadcrumb p {
+    padding: 0;
+}
+
+hr {
+    padding: 0;
+    width: 30rem;
+    color: #e6e8ed;
+}
+
+/* Introduction styles*/
+
+.introduction {
+    text-align: left;
+    padding: 0 200px;
+    font-size: large;
+    line-height: 1.5;
+    color: #17336b;
+}
+
+/* first-section styles */
+
+.first-section {
+    text-align: left;
+    padding: 0 200px;
+    font-size: large;
+    color: #17336b;
+}
+
+.first-section h2 {
+    font-size: large;
+    padding: 0 85px;
+    text-decoration: underline;
+    line-height: 0;
+}
+
+.first-section p {
+    padding: 0 85px;
+    line-height: 1.5;
+}
+
+.first-section a {
+    padding: 0;
+}
+
+.first-section span {
+    font-size: 15px;
+    padding: 0 5px;
+}
+
+.first-section p b {
+    padding: 0;
+    line-height: 1.5;
+}
+
+.first-section ul li {
+    padding: 0;
+    line-height: 1.5;
+}
+
+/* second-section styles */
+
+.second-section {
+    text-align: left;
+    padding: 0 200px;
+    font-size: large;
+    color: #17336b;
+}
+
+.second-section h2 {
+    font-size: large;
+    padding: 0 85px;
+    text-decoration: underline;
+    line-height: 0;
+}
+
+.second-section p {
+    padding: 0 80px;
+    line-height: 1.5;
+}
+
+.second-section ul li {
+    padding: 0;
+    line-height: 1.5;
+}
+
+.second-section .center {
+    text-align: center;
+}
+
+/* section third style*/
+
+.third-section {
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:#0064bc;
+    border-radius: 10px;
+    font-size: large;
+    color: #fff;
+}
+
+.third-section:hover{
+    background-color: #0a2458;
+    transition: 0.3s;
+}
+.third-section h1{
+    padding: 0;
+}
+
+.third-section span {
+    padding: 0;
+}
+.third-section p {
+    padding-top: 0;
+    font-size: small;
+    padding: 0;
+}
+
+.breadcrumb2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5px;
+}
+
+.breadcrumb2 p{
+    text-decoration: underline;
+    text-decoration-color: #666666;
+}
+
+/* fourth section style*/
+
+.fourth-section{
+    display: flex;
+    align-items: center;
+    padding: 25px;
+    justify-content: center;
+    border: 3px solid #0a2458;
+    border-radius: 10px;
+    height: 150px;
+    margin-top: 50px;
+}
+
+.fourth-section img{
+    padding: 0;
+    width: 25%;
+}
+.fourth-section p{
+    font-size: large;
+    color: #0a2458;
+    position: absolute;
+    margin-bottom: 8rem;
+    margin-right: 27.5rem;
+    padding: 0;
+}
+
+.fourth-section .field-1 label{
+    padding: 0;
+    width: 15%;
+    color: #0a2458;
+    font-size:small;
+}
+.fourth-section .field-2 label{
+    padding: 0;
+    width: 15%;
+    color: #0a2458;
+    font-size:small;
+}
+.fourth-section .field-1{
+    padding: 0;
+    margin-top: 25px;
+}
+.fourth-section .field-2{
+    padding: 0;
+    margin-top: 25px;
+}
+.fourth-section .field-3{
+    padding: 0;
+    margin-top: 40px;
+}
+
+.fourth-section button{
+    font-size: larger;
+    background-color: #0a2458;
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+    width: 25;
+    height: 48px;
+}
+
+button:hover{
+    background-color:#0064bc;
+}
+input[type="email"] {
+    background-color: #e0e5ef;
+    border: none;
+    border-radius: 10px;
+    height: 30px;
+  }
+
+  input[type="text"] {
+    background-color: #e0e5ef;
+    border: none;
+    border-radius: 10px;
+    height: 30px;
+    width: 20px;
+  }
+
+  
+  
+
+
+
+
+
